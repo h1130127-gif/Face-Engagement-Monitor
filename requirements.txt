@@ -1,0 +1,5 @@
+deepface
+jieba
+SpeechRecognition
+gradio
+matplotlib
